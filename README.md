@@ -53,6 +53,7 @@ mindset:   "Clean code, clean pixels — always learning, always shipping."
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" alt="databases" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" height="48" width="48" />
 
 **Design & Creative**
 
