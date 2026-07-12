@@ -17,6 +17,8 @@
 
 </div>
 
+<br/>
+
 <!-- ======================= ABOUT ME ======================= -->
 ## 🚀 About Me
 
@@ -32,6 +34,8 @@ mindset:   "Clean code, clean pixels — always learning, always shipping."
 - 🎨 I also do **graphic & visual design** — illustration, photo editing, and video
 - 🧩 Comfortable across the stack: frontend, backend, databases, and UI/UX
 - ☕ Fun fact: code and design both run better with coffee
+
+<br/>
 
 <!-- ======================= TECH STACK ======================= -->
 ## 🛠️ Tech Stack
@@ -60,45 +64,67 @@ mindset:   "Clean code, clean pixels — always learning, always shipping."
 
 </div>
 
+<br/>
+
 <!-- ======================= GITHUB STATS ======================= -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taksakaa&theme=tokyonight" alt="profile details" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taksakaa&theme=tokyonight" alt="profile details" width="80%" />
 
-<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taksakaa&theme=tokyonight" alt="stats" />
-<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taksakaa&theme=tokyonight&utcOffset=7" alt="productive time" />
+<br/><br/>
 
-<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taksakaa&theme=tokyonight" alt="repos per language" />
-<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taksakaa&theme=tokyonight" alt="most commit language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taksakaa&theme=tokyonight" alt="stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taksakaa&theme=tokyonight&utcOffset=7" alt="productive time" />
 
-<img src="https://streak-stats.demolab.com?user=Taksakaa&theme=tokyonight&hide_border=true" alt="streak stats" />
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taksakaa&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taksakaa&theme=tokyonight" alt="repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taksakaa&theme=tokyonight" alt="most commit language" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Taksakaa&theme=tokyonight&hide_border=true" alt="streak stats" width="80%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taksakaa&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="98%" />
 
 </div>
+
+<br/>
 
 <!-- ======================= CONTRIBUTION SNAKE ======================= -->
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Taksakaa/Taksakaa/output/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Taksakaa/Taksakaa/output/snake.svg" alt="snake animation" width="98%" />
 
 </div>
+
+<br/>
 
 <!-- ======================= 3D CONTRIBUTION GRAPH ======================= -->
+## 🌆 3D Contribution Graph
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Taksakaa/Taksakaa/main/profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="95%" />
+<img src="https://raw.githubusercontent.com/Taksakaa/Taksakaa/main/profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="98%" />
 
 </div>
+
+<br/>
 
 <!-- ======================= DEV QUOTE ======================= -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" width="80%" />
 
 </div>
+
+<br/><br/>
 
 <!-- ======================= FOOTER ======================= -->
 <div align="center">
