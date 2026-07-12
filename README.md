@@ -1,43 +1,67 @@
-<!-- ======================= BANNER / HEADER ======================= -->
+<!-- ======================= HERO / HEADER ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF3C3C&height=200&section=header&text=Taksakaa&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://github.com/Taksakaa.png" width="150" height="150" alt="Taksakaa" />
 
-<!-- Typing animation -->
+# Hi there, I'm Taksakaa 👋
+
 <a href="https://github.com/Taksakaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&pause=1000&color=FF3C3C&center=true&vCenter=true&width=600&lines=Full+Stack+%26+Mobile+Developer;ASP.NET+MVC+%7C+React+%7C+SQL+Server;Android+%7C+Kotlin+%7C+Jetpack+Compose;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Mobile+App+Developer;Graphic+Designer+%26+Visual+Creative;Turning+ideas+into+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<!-- Profile views + followers -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Taksakaa&label=Profile%20views&color=FF3C3C&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Taksakaa?label=Followers&style=flat&color=FF3C3C" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Taksakaa&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Taksakaa?label=Followers&style=flat&color=8B5CF6" alt="followers" />
 </p>
+
+<!-- GANTI_INI: replace the usernames/number below with your own -->
+<a href="https://linkedin.com/in/GANTI_INI"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/GANTI_INI"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://wa.me/62GANTI_INI"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:aprillianravi389@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
 
 <!-- ======================= ABOUT ME ======================= -->
-## 👋 About Me
+## 🚀 About Me
 
-- 💻 **Full Stack & Mobile Developer** — I build web and Android apps from scratch to production
-- 🧰 **Web:** ASP.NET MVC, React, jQuery, SQL Server &nbsp;•&nbsp; **Mobile:** Kotlin, Jetpack Compose
-- 🌱 Currently sharpening my skills in scalable & maintainable app architecture
-- 📫 Reach me at **aprillianravi389@gmail.com**
-- ⚡ Fun fact: code runs better with coffee ☕
+```yaml
+name:      Taksakaa
+role:      Full Stack Developer • Mobile Developer • Graphic Designer
+based_in:  Indonesia 🇮🇩
+focus:     Building web & mobile products end-to-end, plus visual design
+mindset:   "Clean code, clean pixels — always learning, always shipping."
+```
+
+- 💻 I build **web** and **mobile** apps from idea to production
+- 🎨 I also do **graphic & visual design** — illustration, photo editing, and video
+- 🧩 Comfortable across the stack: frontend, backend, databases, and UI/UX
+- ☕ Fun fact: code and design both run better with coffee
 
 <!-- ======================= TECH STACK ======================= -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cs,kotlin,java,js,dart&theme=dark" alt="languages" />
+**Languages**
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=dotnet,react,flutter,bootstrap,tailwind&theme=dark" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,java,kotlin,dart,python,php&theme=dark" alt="languages" />
 
-### Databases, Tools & Design
-<img src="https://skillicons.dev/icons?i=mysql,androidstudio,visualstudio,vscode,git,github,figma,postman&theme=dark" alt="tools" />
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,flutter,tailwind,bootstrap&theme=dark" alt="frameworks" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=dark" alt="databases" />
+
+**Design & Creative**
+
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma&theme=dark" alt="design tools" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,androidstudio&theme=dark" alt="tools" />
 
 </div>
 
@@ -46,20 +70,21 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taksakaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Taksakaa stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taksakaa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Taksakaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Taksakaa stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taksakaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Taksakaa&theme=tokyonight&hide_border=true" alt="streak stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taksakaa&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%" />
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Taksakaa&theme=radical&hide_border=true" alt="streak stats" />
-
-</div>
+<!-- ======================= TROPHIES ======================= -->
+## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Taksakaa&theme=radical&no-frame=true&column=7&margin-w=10" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Taksakaa&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
 
 </div>
 
@@ -70,19 +95,9 @@
 
 </div>
 
-<!-- ======================= SOCIAL LINKS ======================= -->
-## 🌐 Connect With Me
-
+<!-- ======================= FOOTER ======================= -->
 <div align="center">
 
-<!-- GANTI_INI: replace the usernames/number below with your own -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GANTI_INI)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GANTI_INI)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62GANTI_INI)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aprillianravi389@gmail.com)
+⭐️ From [Taksakaa](https://github.com/Taksakaa) — thanks for stopping by!
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3C3C,100:8B0000&height=120&section=footer" width="100%"/>
 </div>
