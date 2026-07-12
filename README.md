@@ -80,15 +80,6 @@ mindset:   "Clean code, clean pixels — always learning, always shipping."
 
 </div>
 
-<!-- ======================= TROPHIES ======================= -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Taksakaa&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
-
-</div>
-
 <!-- ======================= CONTRIBUTION SNAKE ======================= -->
 <div align="center">
 
