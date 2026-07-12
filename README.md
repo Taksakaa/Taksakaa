@@ -86,9 +86,27 @@ mindset:   "Clean code, clean pixels — always learning, always shipping."
 
 </div>
 
+<!-- ======================= 3D CONTRIBUTION GRAPH ======================= -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Taksakaa/Taksakaa/main/profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph" width="95%" />
+
+</div>
+
+<!-- ======================= DEV QUOTE ======================= -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+
+</div>
+
 <!-- ======================= FOOTER ======================= -->
 <div align="center">
 
-⭐️ From [Taksakaa](https://github.com/Taksakaa) — thanks for stopping by!
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&pause=1000&color=C4D67B&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%AD%90;Let's+build+something+great+together+%F0%9F%9A%80" alt="footer typing" />
+
+<br/><br/>
+
+⭐️ From [Taksakaa](https://github.com/Taksakaa) — with logic & empathy.
 
 </div>
