@@ -70,8 +70,13 @@ mindset:   "Clean code, clean pixels — always learning, always shipping."
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Taksakaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Taksakaa stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taksakaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taksakaa&theme=tokyonight" alt="profile details" width="95%" />
+
+<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taksakaa&theme=tokyonight" alt="stats" />
+<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taksakaa&theme=tokyonight&utcOffset=7" alt="productive time" />
+
+<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taksakaa&theme=tokyonight" alt="repos per language" />
+<img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taksakaa&theme=tokyonight" alt="most commit language" />
 
 <img src="https://streak-stats.demolab.com?user=Taksakaa&theme=tokyonight&hide_border=true" alt="streak stats" />
 
