@@ -20,12 +20,12 @@
     <tspan fill="#C4D67B" font-style="italic">Designing</tspan><tspan fill="#ffffff"> with empathy.</tspan>
   </text>
 
-  <!-- ===== skill pills (scattered / abstract, tilted) ===== -->
-  <g transform="translate(48 66) rotate(-4)"><rect width="300" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">💻 Full Stack Developer</text></g>
-  <g transform="translate(500 24) rotate(-2)"><rect width="304" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">✨ Adobe Creative Suite</text></g>
-  <g transform="translate(1082 50) rotate(4)"><rect width="248" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">⚛️ React &amp; Next.js</text></g>
-  <g transform="translate(52 186) rotate(5)"><rect width="212" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">🎨 UI/UX Design</text></g>
-  <g transform="translate(1110 170) rotate(-5)"><rect width="248" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">🗄️ SQL &amp; Databases</text></g>
-  <g transform="translate(30 288) rotate(-3)"><rect width="268" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">📱 Android &amp; Flutter</text></g>
-  <g transform="translate(1126 294) rotate(3)"><rect width="232" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">🔥 Design Systems</text></g>
+  <!-- ===== skill pills (scattered / abstract, stronger tilt) ===== -->
+  <g transform="translate(56 72) rotate(-9)"><rect width="300" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">💻 Full Stack Developer</text></g>
+  <g transform="translate(508 30) rotate(6)"><rect width="304" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">✨ Adobe Creative Suite</text></g>
+  <g transform="translate(1064 44) rotate(8)"><rect width="248" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">⚛️ React &amp; Next.js</text></g>
+  <g transform="translate(44 198) rotate(9)"><rect width="212" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">🎨 UI/UX Design</text></g>
+  <g transform="translate(1118 158) rotate(-10)"><rect width="248" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">🗄️ SQL &amp; Databases</text></g>
+  <g transform="translate(34 296) rotate(-6)"><rect width="268" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">📱 Android &amp; Flutter</text></g>
+  <g transform="translate(1120 300) rotate(7)"><rect width="232" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">🔥 Design Systems</text></g>
 </svg>
