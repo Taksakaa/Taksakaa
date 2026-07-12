@@ -5,16 +5,15 @@
 
 ### Hi there, I'm Taksakaa 👋 &nbsp;•&nbsp; Full Stack Developer & Graphic Designer
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Taksakaa&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Taksakaa?label=Followers&style=flat&color=8B5CF6" alt="followers" />
-</p>
-
 <!-- GANTI_INI: replace the usernames/number below with your own -->
-<a href="https://linkedin.com/in/GANTI_INI"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/GANTI_INI"><img src="https://img.shields.io/badge/Instagram-30363D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://wa.me/62GANTI_INI"><img src="https://img.shields.io/badge/WhatsApp-30363D?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="mailto:aprillianravi389@gmail.com"><img src="https://img.shields.io/badge/Gmail-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Taksakaa&label=Profile%20views&color=30363D&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Taksakaa?label=Followers&style=for-the-badge&color=30363D&labelColor=30363D" alt="followers" />
+  <a href="https://linkedin.com/in/GANTI_INI"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/GANTI_INI"><img src="https://img.shields.io/badge/Instagram-30363D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/62GANTI_INI"><img src="https://img.shields.io/badge/WhatsApp-30363D?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:aprillianravi389@gmail.com"><img src="https://img.shields.io/badge/Gmail-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 </div>
 
