@@ -1,7 +1,7 @@
 <!-- ======================= HERO / HEADER ======================= -->
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Taksakaa — Full Stack Developer & Graphic Designer" />
+<img src="https://raw.githubusercontent.com/Taksakaa/Taksakaa/main/assets/header.svg?v=3" width="100%" alt="Taksakaa — Full Stack Developer & Graphic Designer" />
 
 ### Hi there, I'm Taksakaa 👋 &nbsp;•&nbsp; Full Stack Developer & Graphic Designer
 
