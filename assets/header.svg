@@ -7,67 +7,32 @@
       <stop offset="0%" stop-color="#1e1e1e"/>
       <stop offset="100%" stop-color="#0d0d0d"/>
     </radialGradient>
-    <style>
-      .pill-bg { fill:#242424; stroke:#3a3a3a; stroke-width:1; }
-      .pill-tx { fill:#e8e8e8; font-size:22px; font-weight:600; }
-      .h { font-weight:800; font-size:66px; letter-spacing:-1px; }
-      .white { fill:#ffffff; }
-      .olive { fill:#C4D67B; }
-    </style>
   </defs>
 
-  <!-- background -->
   <rect width="1400" height="360" rx="24" fill="url(#glow)"/>
   <rect width="1400" height="360" rx="24" fill="url(#grid)"/>
 
-  <!-- ===== headline (center) ===== -->
-  <text x="700" y="182" text-anchor="middle" class="h">
-    <tspan class="white">Designing with </tspan><tspan class="white" font-style="italic">logic</tspan>
+  <!-- ===== headline (center, clear zone) ===== -->
+  <text x="700" y="182" text-anchor="middle" font-weight="800" font-size="64" letter-spacing="-1">
+    <tspan fill="#ffffff">Building with </tspan><tspan fill="#ffffff" font-style="italic">logic,</tspan>
   </text>
-  <text x="700" y="256" text-anchor="middle" class="h">
-    <tspan class="olive" font-style="italic">Building</tspan><tspan class="white"> with empathy.</tspan>
+  <text x="700" y="254" text-anchor="middle" font-weight="800" font-size="64" letter-spacing="-1">
+    <tspan fill="#C4D67B" font-style="italic">Designing</tspan><tspan fill="#ffffff"> with empathy.</tspan>
   </text>
 
-  <!-- ===== floating skill pills ===== -->
+  <!-- ===== skill pills (edges only, never over headline) ===== -->
   <!-- top-left -->
-  <g transform="translate(60,58)">
-    <rect class="pill-bg" width="238" height="52" rx="14"/>
-    <text x="20" y="33" class="pill-tx">🧠 Analytical Thinking</text>
-  </g>
-
-  <!-- mid-left upper -->
-  <g transform="translate(300,150)">
-    <rect class="pill-bg" width="176" height="52" rx="14"/>
-    <text x="20" y="33" class="pill-tx">🎨 UI/UX Design</text>
-  </g>
-
-  <!-- lower-left -->
-  <g transform="translate(210,258)">
-    <rect class="pill-bg" width="288" height="52" rx="14"/>
-    <text x="20" y="33" class="pill-tx">🛠️ Information Architecture</text>
-  </g>
-
+  <g transform="translate(60,46)"><rect width="300" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">💻 Full Stack Developer</text></g>
   <!-- top-right -->
-  <g transform="translate(985,48)">
-    <rect class="pill-bg" width="196" height="52" rx="14"/>
-    <text x="20" y="33" class="pill-tx">🔍 User Research</text>
-  </g>
-
-  <!-- mid-right -->
-  <g transform="translate(1078,150)">
-    <rect class="pill-bg" width="230" height="52" rx="14"/>
-    <text x="20" y="33" class="pill-tx">🚀 Scalable Solutions</text>
-  </g>
-
-  <!-- center-right near headline -->
-  <g transform="translate(895,168)">
-    <rect class="pill-bg" width="196" height="52" rx="14"/>
-    <text x="20" y="33" class="pill-tx">🔥 Design Systems</text>
-  </g>
-
-  <!-- lower-right -->
-  <g transform="translate(960,268)">
-    <rect class="pill-bg" width="214" height="52" rx="14"/>
-    <text x="20" y="33" class="pill-tx">⚡ Rapid Prototyping</text>
-  </g>
+  <g transform="translate(1092,46)"><rect width="248" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">⚛️ React &amp; Next.js</text></g>
+  <!-- left-mid -->
+  <g transform="translate(40,158)"><rect width="212" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">🎨 UI/UX Design</text></g>
+  <!-- right-mid -->
+  <g transform="translate(1108,158)"><rect width="248" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">🗄️ SQL &amp; Databases</text></g>
+  <!-- left-lower -->
+  <g transform="translate(28,262)"><rect width="268" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">📱 Android &amp; Flutter</text></g>
+  <!-- right-lower -->
+  <g transform="translate(1124,262)"><rect width="232" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">🔥 Design Systems</text></g>
+  <!-- bottom-center -->
+  <g transform="translate(548,302)"><rect width="304" height="52" rx="14" fill="#242424" stroke="#3a3a3a"/><text x="22" y="33" fill="#e8e8e8" font-size="22" font-weight="600">✨ Adobe Creative Suite</text></g>
 </svg>
