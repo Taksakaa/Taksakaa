@@ -1,13 +1,9 @@
 <!-- ======================= HERO / HEADER ======================= -->
 <div align="center">
 
-<img src="https://github.com/Taksakaa.png" width="150" height="150" alt="Taksakaa" />
+<img src="./assets/header.svg" width="100%" alt="Taksakaa — Full Stack Developer & Graphic Designer" />
 
-# Hi there, I'm Taksakaa 👋
-
-<a href="https://github.com/Taksakaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Mobile+App+Developer;Graphic+Designer+%26+Visual+Creative;Turning+ideas+into+products+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+### Hi there, I'm Taksakaa 👋 &nbsp;•&nbsp; Full Stack Developer & Graphic Designer
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Taksakaa&label=Profile%20views&color=8B5CF6&style=flat" alt="profile views" />

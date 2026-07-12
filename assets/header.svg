@@ -1,0 +1,73 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#1e1e1e"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </radialGradient>
+    <style>
+      .pill-bg { fill:#242424; stroke:#3a3a3a; stroke-width:1; }
+      .pill-tx { fill:#e8e8e8; font-size:22px; font-weight:600; }
+      .h { font-weight:800; font-size:66px; letter-spacing:-1px; }
+      .white { fill:#ffffff; }
+      .olive { fill:#C4D67B; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1400" height="360" rx="24" fill="url(#glow)"/>
+  <rect width="1400" height="360" rx="24" fill="url(#grid)"/>
+
+  <!-- ===== headline (center) ===== -->
+  <text x="700" y="182" text-anchor="middle" class="h">
+    <tspan class="white">Designing with </tspan><tspan class="white" font-style="italic">logic</tspan>
+  </text>
+  <text x="700" y="256" text-anchor="middle" class="h">
+    <tspan class="olive" font-style="italic">Building</tspan><tspan class="white"> with empathy.</tspan>
+  </text>
+
+  <!-- ===== floating skill pills ===== -->
+  <!-- top-left -->
+  <g transform="translate(60,58)">
+    <rect class="pill-bg" width="238" height="52" rx="14"/>
+    <text x="20" y="33" class="pill-tx">🧠 Analytical Thinking</text>
+  </g>
+
+  <!-- mid-left upper -->
+  <g transform="translate(300,150)">
+    <rect class="pill-bg" width="176" height="52" rx="14"/>
+    <text x="20" y="33" class="pill-tx">🎨 UI/UX Design</text>
+  </g>
+
+  <!-- lower-left -->
+  <g transform="translate(210,258)">
+    <rect class="pill-bg" width="288" height="52" rx="14"/>
+    <text x="20" y="33" class="pill-tx">🛠️ Information Architecture</text>
+  </g>
+
+  <!-- top-right -->
+  <g transform="translate(985,48)">
+    <rect class="pill-bg" width="196" height="52" rx="14"/>
+    <text x="20" y="33" class="pill-tx">🔍 User Research</text>
+  </g>
+
+  <!-- mid-right -->
+  <g transform="translate(1078,150)">
+    <rect class="pill-bg" width="230" height="52" rx="14"/>
+    <text x="20" y="33" class="pill-tx">🚀 Scalable Solutions</text>
+  </g>
+
+  <!-- center-right near headline -->
+  <g transform="translate(895,168)">
+    <rect class="pill-bg" width="196" height="52" rx="14"/>
+    <text x="20" y="33" class="pill-tx">🔥 Design Systems</text>
+  </g>
+
+  <!-- lower-right -->
+  <g transform="translate(960,268)">
+    <rect class="pill-bg" width="214" height="52" rx="14"/>
+    <text x="20" y="33" class="pill-tx">⚡ Rapid Prototyping</text>
+  </g>
+</svg>
